@@ -1,1 +1,2 @@
-# lab3-demo
+Lorenzo Martinez
+Lab 3
